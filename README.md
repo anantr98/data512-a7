@@ -1,6 +1,9 @@
 # data512-a7
 The repository for all of the materials for the submission of A7.
 
+**IMPORTANT** 
+The Kaggle data set (1) is too large of a dataset (~ 1GB) to upload so the data can be accessed through the link below. 
+
 ## Data Used: 
 
 1) https://www.kaggle.com/kennethhesse/metro-nashville-police-department-open-data?select=Metro_Nashville_Police_Department_Incidents.csv
