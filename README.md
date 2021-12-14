@@ -4,7 +4,7 @@ The repository for all of the materials for the submission of A7.
 ## Data Used: 
 
 1) https://www.kaggle.com/kennethhesse/metro-nashville-police-department-open-data?select=Metro_Nashville_Police_Department_Incidents.csv
-
+- Features in dataset: "Primary Key", "Incident Number", "Report Type", "Report Type Description", "Incident Status Code", "Incident Status Description", "Investigation Status", "Incident Occurred", "Incident Reported", "Incident Loc"
 2) https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv
 
 ## References: 
